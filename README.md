@@ -43,6 +43,7 @@ cout<<"Nilai Terbesar = "<<terbesar;cout<<endl;}
 }
 
 **hasilnya :**
-![SS](https://raw.githubusercontent.com/alivia1919/praktikum2/master/latihan1/SS.png)
+
+![screenshoot](https://raw.githubusercontent.com/alivia1919/praktikum2/master/latihan1/SS.png)
 
 # praktikum2
