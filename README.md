@@ -9,4 +9,9 @@
 4. kondisi **true**, maka bandingkan nilai variable **A** dengan **C**
 5. kondisi **false**, maka bandingkan nilai variable **B** dengan **C**
 
-**flowchart program** # praktikum2
+**flowchart program** 
+![flowchart]()
+
+**code program lengkap :**
+```c++
+# praktikum2
