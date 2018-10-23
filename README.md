@@ -45,4 +45,48 @@ cout<<"Nilai Terbesar = "<<terbesar;cout<<endl;}
 hasilnya :
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum2/master/latihan1/SS.png)
 
+## latihan2.cpp : program menghitung bilangan terbesar dari 4 bilangan
+
+**Alur algoritma**
+1. Mendeklarasikan variable int A, B, C, D sebagai variable input
+2. Membaca input Dari keyboard cin >> A >> B >> C >> D
+3. Membandingkan nilai variable A dengan B
+4. Kondisi True maka bandingkan nilai variable A dengan C
+5. Kondisi True maka bandingkan nilai variable C dengan D
+6. Kondisi False maka bandingkan nilai variable B dengan C
+
+**flowchart program** 
+![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum2/master/latihan2/flowchart.png)
+
+**code lengkapnya :**
+```c++
+#include<iostream>
+using namespace std;
+
+int main(){
+
+    int a,b,c,d;
+
+    cout << "Masukan bilangan 1: ";
+    cin >> a;
+    cout << "Masukan bilangan 2: ";
+    cin >> b;
+    cout << "Masukan bilangan 3: ";
+    cin >> c;
+    cout << "Masukan bilangan 4: ";
+    cin >> d;
+
+    if (a>b && a>c && a>d)
+        cout << "Bilangan terbesar adalah: " << a << endl;
+    else if (b>a && b>c && b>d)
+        cout << "Bilangan terbesar adalah: " << b << endl;
+    else if (c>a && c>b && c>d)
+        cout << "Bilangan terbesar adalah: " << c << endl;
+    else
+        cout << "Bilangan terbesar adalah: " << d << endl;
+}
+
+hasilnya :
+![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum2/master/latihan2/hasilnya.png)
+
 # praktikum2
