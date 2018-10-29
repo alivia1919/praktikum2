@@ -41,9 +41,10 @@ cout<<"Nilai Terbesar = "<<terbesar;cout<<endl;}
 
     return 0;
 }
+```
 
+**hasilnya :**
 
-hasilnya :
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum2/master/latihan1/SS.png)
 
 
@@ -66,7 +67,7 @@ if (C > MAX)
 MAX = C;
 cout << MAX;
 }
-
+```
 
 ## latihan1 cara ke 3.cpp : program menghitung bilangan terbesar dari 3 bilangan
 
@@ -92,7 +93,7 @@ if (C > MAX)
 MAX = C;
 cout << MAX;
 }
-
+```
 
 ## latihan1 cara ke 4.cpp : program menghitung bilangan terbesar dari 3 bilangan
 
@@ -118,7 +119,7 @@ int main ()
     MAX = A;
     cout << MAX;
 }
-
+```
 
 ## latihan1 cara ke 5.cpp : program menghitung bilangan terbesar dari 3 bilangan
 
@@ -140,7 +141,7 @@ int main ()
             cout << B;
     else cout << C; }
 }
-
+```
 
 ## latihan1 cara ke 6.cpp : program menghitung bilangan terbesar dari 3 bilangan
 
@@ -164,7 +165,7 @@ cout << B;
 if (C>A && C>B)
 cout << C;
 }
-
+```
 
 =======================================================================================================================
 
@@ -208,8 +209,10 @@ int main(){
     else
         cout << "Bilangan terbesar adalah: " << d << endl;
 }
+```
 
-hasilnya :
+**hasilnya :**
+
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum2/master/latihan2/hasilnya.png)
 
 
